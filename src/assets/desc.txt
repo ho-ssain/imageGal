@@ -1,0 +1,10 @@
+img1 = "Close-up Photo of Glowing Blue Butterflies"
+img2 = "Selective Focus Photography of Turned-on Black Met"
+img3 = "Green Tree Plant Leaves"
+img4 = "Brown Wooden Dock"
+img5 = "Brown Wooden House on Orange Leaf Trees"
+img6 = "Lady in Beach Silhouette during Daytime Photography
+"
+img7 = "Woman Holding Fireflies"
+img8 = 'Close-Up Photo of Red Candles'
+img9 = "Depth of Field Photo of Boy Wearing Blue Cap"
